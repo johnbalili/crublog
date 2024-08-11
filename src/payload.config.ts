@@ -50,7 +50,6 @@ export default buildConfig({
           name: 'category',
           type: 'relationship',
           relationTo: 'categories',
-          label: 'title',
         },
         {
           name: 'date',
